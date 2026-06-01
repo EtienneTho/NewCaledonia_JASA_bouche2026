@@ -1,0 +1,2 @@
+window_label,window_label_hhmm,start_hour,end_hour,window_span_hours,center_hour,n_obs,n_zones,rho_obs,R2_obs,R2_boot_mean,R2_boot_std,R2_ci_low,R2_ci_high,p_perm_empirical
+022.0-004.0,22:00-04:00,22.0,4.0,6.0,1.0,17198,30,0.171834533768387,0.029527106995398934,0.03423905039249241,0.01773558035995137,0.00879631265268356,0.07515933169055056,0.03225806451612903

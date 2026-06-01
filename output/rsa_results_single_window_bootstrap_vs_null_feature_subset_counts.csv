@@ -1,0 +1,9 @@
+subset_name,n_features
+all_sig_negative,11
+all_sig_positive,10
+neither_sig_positive_nor_negative,39
+selected_positive_greedy,0
+top10_sig_negative_effect,10
+top10_sig_positive_effect,10
+top5_sig_negative_effect,5
+top5_sig_positive_effect,5

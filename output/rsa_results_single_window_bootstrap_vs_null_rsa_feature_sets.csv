@@ -1,0 +1,18 @@
+subset_name,n_features,n_zones,rho_obs,R2_obs,p_perm_empirical,note,subset_base_name,subset_mode
+all_features,60,30.0,0.171834533768387,0.029527106995398934,0.03225806451612903,,all_features,all
+selected_positive_greedy__only,0,,,,,Aucune feature dans ce sous-ensemble.,selected_positive_greedy,only
+selected_positive_greedy__without,60,30.0,0.171834533768387,0.029527106995398934,0.03225806451612903,,selected_positive_greedy,without
+all_sig_positive__only,10,30.0,0.27653083873512935,0.07646930477155411,0.03225806451612903,,all_sig_positive,only
+all_sig_positive__without,50,30.0,0.09668583639560809,0.009348150959518292,0.06451612903225806,,all_sig_positive,without
+top5_sig_positive_effect__only,5,30.0,0.2930070407989291,0.08585312595774529,0.03225806451612903,,top5_sig_positive_effect,only
+top5_sig_positive_effect__without,55,30.0,0.12915774405180844,0.016681722848552457,0.03225806451612903,,top5_sig_positive_effect,without
+top10_sig_positive_effect__only,10,30.0,0.27653083873512935,0.07646930477155411,0.03225806451612903,,top10_sig_positive_effect,only
+top10_sig_positive_effect__without,50,30.0,0.09668583639560809,0.009348150959518292,0.12903225806451613,,top10_sig_positive_effect,without
+all_sig_negative__only,11,30.0,0.062477339894145396,0.003903418000248572,0.22580645161290322,,all_sig_negative,only
+all_sig_negative__without,49,30.0,0.20800341199220204,0.04326541940039774,0.03225806451612903,,all_sig_negative,without
+top5_sig_negative_effect__only,5,30.0,0.012589812034857229,0.00015850336707303592,0.8064516129032258,,top5_sig_negative_effect,only
+top5_sig_negative_effect__without,55,30.0,0.18919603412538116,0.035795139328772395,0.03225806451612903,,top5_sig_negative_effect,without
+top10_sig_negative_effect__only,10,30.0,0.06186154380751205,0.0038268506022487324,0.12903225806451613,,top10_sig_negative_effect,only
+top10_sig_negative_effect__without,50,30.0,0.20446112179551723,0.04180435032588133,0.03225806451612903,,top10_sig_negative_effect,without
+neither_sig_positive_nor_negative__only,39,30.0,0.12325136733488334,0.01519089954991835,0.03225806451612903,,neither_sig_positive_nor_negative,only
+neither_sig_positive_nor_negative__without,21,30.0,0.17421800104432297,0.03035191188787972,0.03225806451612903,,neither_sig_positive_nor_negative,without

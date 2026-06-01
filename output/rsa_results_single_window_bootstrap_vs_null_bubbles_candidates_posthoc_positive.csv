@@ -1,0 +1,1 @@
+feature,W_obs_full,W_boot_mean,W_boot_std,W_boot_mean_test,W_boot_std_test,W_n_boot_valid,W_null_mean,W_null_std,W_n_null_valid,W_t_stat,W_p_ttest,sign_consistency,delta_mean,effect_size,abs_effect_size,p_fdr,significant_fdr,significant_vs_null,stars,abs_W_obs_full
