@@ -6,7 +6,7 @@ This repository contains the analysis scripts used to generate the figures for:
 
 The scripts are numbered and should be run in order. They assume that the input file `data.csv` is located in the same directory as the scripts, unless the paths are modified manually inside the scripts.
 
-The `data.csv` file can be downloaded at the following link: XXX
+The `data.csv` file can be downloaded at the following link: [OSF repository](https://doi.org/10.17605/OSF.IO/BAU9R)
 
 ---
 
