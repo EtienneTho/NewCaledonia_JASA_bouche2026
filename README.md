@@ -1,8 +1,8 @@
-# Scripts to generate figures of the paper
+# Scripts to generate figures of Bouché et al. (2026) The Journal of the Acoustical Society of America
 
 This repository contains the analysis scripts used to generate the figures for:
 
-**Bouché, Jourdan, Takerkart, De Méringo, Thoret, Gasc (2026). _Quantifying the effect of forest edge on tropical fauna using explainable ecoacoustics metrics._ The Journal of the Acoustical Society of America.**
+**Bouché, A., Jourdan, H., Takerkart; S., De Méringo, H., Thoret, E.*, Gasc, A.* (2026). _Quantifying the effect of forest edge on tropical fauna using explainable ecoacoustics metrics._ The Journal of the Acoustical Society of America. [doi](https://doi.org/10.17605/OSF.IO/BAU9R](https://doi.org/10.1121/10.0043951)**
 
 The scripts are numbered and should be run in order. They assume that the input file `data.csv` is located in the same directory as the scripts, unless the paths are modified manually inside the scripts.
 
